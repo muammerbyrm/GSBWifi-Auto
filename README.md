@@ -20,8 +20,8 @@ python --version
 ### 1) Projeyi indir
 
 ```
-git clone https://github.com/KULLANICI_ADIN/REPO_ADI.git
-cd REPO_ADI
+git clone https://github.com/muammerbyrm/GSBWifi-Auto.git
+cd GSBWifi-Auto
 ```
 
 ### 2) Sanal ortam oluştur ve aç
